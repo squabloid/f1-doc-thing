@@ -1,0 +1,25 @@
+/* This is a css comment */
+/* from http://www.w3schools.com/css/css_howto.asp */
+
+body {
+
+    background-image: url("https://cdn-1.motorsport.com/images/mgl/YKEVRXB0/s1200/red-star-on-mercedes-amg-f1-w1-1.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}	
+
+h1 {
+    color: black;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.my-parragraph{
+	color: ;
+}
+
+#title{
+	font-size: 50px;
+	font-weight: 1px;
+}
